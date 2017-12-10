@@ -1,0 +1,19 @@
+{
+
+  "description": "Animation of the Theme - WebExtension experimental on Firefox 59 and +",
+  "manifest_version": 2,
+  "name": "Theme Anim",
+  "version": "1.0",
+
+ "background": {
+    "scripts": ["background/background.js"]
+  },
+  
+  "web_accessible_resources": [
+    "resources/anim.svg",
+    "resources/background.png"
+  ],
+  
+  "permissions": ["theme"]
+  
+}
