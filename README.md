@@ -2,7 +2,7 @@
 ## Introduction
 Experimental WebExtensions to show how to animate a theme in Firefox 59 and more
 
-![Screenshot](screenshots/demo.mp4 "Theme animed")
+![Screenshot](screenshots/demo.gif "Theme animed")
  
 ## What it does
 2 animations
