@@ -2,8 +2,10 @@
 ## Introduction
 Experimental WebExtensions to show how to animate a theme in Firefox 59 and more
 
+Comptibility with Firefox 70
+
 ![Screenshot](screenshots/demo.gif "Theme animed")
- 
+
 ## What it does
 2 animations
 
@@ -28,7 +30,4 @@ The extension does:
 ## Crédit
 (c) Christophe Villeneuve aka Hello / Sector One
 
-Réalisé en 2017
-
-
-
+Réalisé en 2017 - 2019
